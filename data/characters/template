@@ -1,0 +1,69 @@
+Name
+Level
+Race
+Alignment
+Deity
+Age
+Gender
+
+str
+dex
+con
+int
+wis
+cha
+
+fort: {
+    base
+    magic
+    misc
+}
+ref: {
+    base
+    magic
+    misc
+}
+will: {
+    base
+    magic
+    misc
+}
+
+bab
+sizeModifier
+naturalArmor
+deflectionModifier
+acMisc
+armor
+shield
+
+damageReduction
+speed
+inititiveMiscModifier
+
+
+attacks: {
+    attack: {
+        bab
+        bonus
+        damage
+        crit
+        notes
+    }
+}
+
+armor: {
+    name: {
+        cost
+        value
+        type
+        dr
+    }
+}
+
+skills: {
+    skill: {
+        ranks
+        misc
+    }
+}
