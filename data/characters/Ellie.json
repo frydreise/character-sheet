@@ -1,49 +1,49 @@
 {
     "basic": {
-        "name": "",
-        "level": 1,
-        "race": "",
-        "alignment": "",
+        "name": "Ellie",
+        "level": 15,
+        "race": "Human",
+        "alignment": "NE",
         "deity": "",
-        "age": 0,
-        "gender": "",
+        "age": 2000,
+        "gender": "F",
         "stats": {
-            "str": 1,
-            "dex": 1,
-            "con": 1,
-            "int": 1,
-            "wis": 1,
-            "cha": 1
+            "str": 6,
+            "dex": 18,
+            "con": 24,
+            "int": 14,
+            "wis": 20,
+            "cha": 24
         },
         "saves": {
             "fort": {
-                "base": 0,
+                "base": 9,
                 "magic": 0,
-                "misc": 0
+                "misc": 2
             },
             "ref": {
-                "base": 0,
+                "base": 7,
                 "magic": 0,
-                "misc": 0
+                "misc": 2
             },
             "will": {
-                "base": 0,
+                "base": 9,
                 "magic": 0,
-                "misc": 0
+                "misc": 2
             }
         },
-        "bab": 0,
-        "sizeModifier": 0,
+        "bab": 12,
+        "sizeModifier": -1,
         "ac": {
-            "armor": 0,
-            "shield": 0,
-            "naturalArmor": 0,
-            "deflectionModifier": 0,
+            "armor": 8,
+            "shield": 3,
+            "naturalArmor": 6,
+            "deflectionModifier": 2,
             "acMisc": 0
         },
-        "hp": 0,
-        "damageReduction": 0,
-        "speed": 0,
+        "hp": 103,
+        "damageReduction": 10,
+        "speed": 30,
         "inititiveMiscModifier": 0
     },
 

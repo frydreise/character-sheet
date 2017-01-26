@@ -20,6 +20,7 @@ function createCharacter (character) {
   var char = new Character(character);
   characters.push(char);
 
+
 }
 
 
@@ -36,6 +37,8 @@ fs.readdir(characterPath, (err, data) => {
     var char = require(characterPath+data[i]);
     createCharacter(char);
   }
+
+  console.log(characters);  
 
 });
 
