@@ -1,0 +1,6 @@
+
+exports = function Skills() {
+
+	
+
+}

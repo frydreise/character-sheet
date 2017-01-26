@@ -1,0 +1,19 @@
+{
+  "name": "character-sheet",
+  "version": "1.0.0",
+  "description": "Node and react app to calculate and display 3.5 character sheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frydreise/character-sheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frydreise/character-sheet/issues"
+  },
+  "homepage": "https://github.com/frydreise/character-sheet#readme"
+}
